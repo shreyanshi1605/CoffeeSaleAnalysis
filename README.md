@@ -40,10 +40,11 @@ This Excel-based dashboard provides a comprehensive analysis of coffee sales acr
 - Sales by Country: The United States generated the highest sales at **$35,639**, followed by Ireland with **$6,697**, and the United Kingdom with **$2,799**.
 - Top 5 Customers: The highest-paying customer is **Allis Wilmore** with a total spend of **$317**, followed by **Brenn Dundredge** with **$307**.
 
----
-
 ### Technologies Used:
 - Excel Functions: XLOOKUP, INDEX MATCH, IF, multiplication formulas.
 - Data Visualization: Pivot Tables, Pivot Charts, Timelines, and Slicers.
+
+### Screenshot:
+![image](https://github.com/user-attachments/assets/4234f31d-b049-4b38-8b8c-12ac0fbb3dc6)
 
 This Coffee Sales Dashboard project showcases Excel’s powerful data analysis and visualization capabilities, helping stakeholders track sales performance, customer engagement, and regional sales distribution.
